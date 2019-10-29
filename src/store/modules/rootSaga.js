@@ -1,6 +1,6 @@
-import { all } from 'redux-saga/effects';
-// import api from './api/api.sagas';
+import { all, fork } from 'redux-saga/effects';
+import { watchStartup } from './startup/startup.sagas';
 
 export default function* rootSaga() {
-  return yield all([]);
+  return yield all([fork(watchStartup)]);
 }

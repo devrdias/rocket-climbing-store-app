@@ -29,7 +29,6 @@ export const CardItem = styled.View`
 export const ProductImage = styled.Image`
   width: 160px;
   height: 160px;
-  border: 0;
 `;
 
 export const ProductDetail = styled.View`
@@ -48,6 +47,7 @@ export const Title = styled.Text.attrs({
 `;
 
 export const Price = styled.Text`
+  font-family: Roboto;
   font-size: 18px;
   font-weight: bold;
   color: #000000;

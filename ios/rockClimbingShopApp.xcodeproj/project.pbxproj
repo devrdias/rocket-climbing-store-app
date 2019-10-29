@@ -7,19 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		00D65D6753DB404CA0E269CA /* Roboto-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DC52B412A57844ACA910B2F0 /* Roboto-BoldItalic.ttf */; };
 		00E356F31AD99517003FC87E /* rockClimbingShopAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* rockClimbingShopAppTests.m */; };
 		033A7876E8CF8E0138A3094C /* libPods-rockClimbingShopApp-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C55A70ADE8B6B28E8BCBAC76 /* libPods-rockClimbingShopApp-tvOSTests.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		1B09D94C219C4184A199A268 /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 514932F6D19E41658FDB27E6 /* Roboto-Light.ttf */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* rockClimbingShopAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* rockClimbingShopAppTests.m */; };
+		4248BDB9D12A473F9782BFD2 /* Roboto-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 14E9101F88C84B5C8B322E5F /* Roboto-LightItalic.ttf */; };
+		57F0EB72E60F422D9DCC8BEC /* Roboto-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5FF1D0CF32B14EB8BE139813 /* Roboto-BlackItalic.ttf */; };
+		5B88EBBAE88F491589EC27B6 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E7650A216A18412AB24E04DF /* Roboto-Medium.ttf */; };
+		5FE978423C6C45EAB5E7E816 /* Roboto-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 90B62883429D4A1488EA72AE /* Roboto-Italic.ttf */; };
 		6B7BEEF076F81636E32837E3 /* libPods-rockClimbingShopApp-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E02E6E31F93E074EF4E30DE1 /* libPods-rockClimbingShopApp-tvOS.a */; };
 		88C8B9A0A4B1EBBD2551C1B1 /* libPods-rockClimbingShopAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B03778C7630CDE7491605013 /* libPods-rockClimbingShopAppTests.a */; };
+		986E6F2743814477AB0A886E /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 705EF94437B04D0B9390CA5F /* Roboto-Thin.ttf */; };
+		B061CE51130641ABB16E134C /* Roboto-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A5F28F1D0F69493395061B9E /* Roboto-MediumItalic.ttf */; };
 		CDEB6478A04788BC2D745B17 /* libPods-rockClimbingShopApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 789FD4B5DDE4CC2E208A8CC3 /* libPods-rockClimbingShopApp.a */; };
+		CE28975C4B964B5F998EDFA0 /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 646F4E92E2F24691A991B673 /* Roboto-Black.ttf */; };
+		EB56E093799844E78BE6E3B8 /* Roboto-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B87F49B9AE4548329F82410C /* Roboto-ThinItalic.ttf */; };
+		EEFDE7E13DBC4241B28A38DA /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04370DF7AAE0473A852DEA5F /* Roboto-Bold.ttf */; };
+		EF00BB6C2368AE0600A44A46 /* default.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF00BB6B2368AE0600A44A46 /* default.swift */; };
+		FD09F96EEFE34F4DB6475961 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 398D543C4B7A4EF9AEF1E98E /* Roboto-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +57,7 @@
 		00E356EE1AD99517003FC87E /* rockClimbingShopAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rockClimbingShopAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* rockClimbingShopAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = rockClimbingShopAppTests.m; sourceTree = "<group>"; };
+		04370DF7AAE0473A852DEA5F /* Roboto-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Bold.ttf"; path = "../assets/fonts/Roboto-Bold.ttf"; sourceTree = "<group>"; };
 		0EB23E7EC138225E0F59FD0D /* Pods-rockClimbingShopApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rockClimbingShopApp.debug.xcconfig"; path = "Target Support Files/Pods-rockClimbingShopApp/Pods-rockClimbingShopApp.debug.xcconfig"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* rockClimbingShopApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rockClimbingShopApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = rockClimbingShopApp/AppDelegate.h; sourceTree = "<group>"; };
@@ -52,21 +66,34 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = rockClimbingShopApp/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = rockClimbingShopApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = rockClimbingShopApp/main.m; sourceTree = "<group>"; };
+		14E9101F88C84B5C8B322E5F /* Roboto-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-LightItalic.ttf"; path = "../assets/fonts/Roboto-LightItalic.ttf"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* rockClimbingShopApp-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "rockClimbingShopApp-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* rockClimbingShopApp-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "rockClimbingShopApp-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		398D543C4B7A4EF9AEF1E98E /* Roboto-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Regular.ttf"; path = "../assets/fonts/Roboto-Regular.ttf"; sourceTree = "<group>"; };
 		466F33F52F6C33BACB68FDD9 /* Pods-rockClimbingShopApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rockClimbingShopApp.release.xcconfig"; path = "Target Support Files/Pods-rockClimbingShopApp/Pods-rockClimbingShopApp.release.xcconfig"; sourceTree = "<group>"; };
+		514932F6D19E41658FDB27E6 /* Roboto-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Light.ttf"; path = "../assets/fonts/Roboto-Light.ttf"; sourceTree = "<group>"; };
+		5FF1D0CF32B14EB8BE139813 /* Roboto-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-BlackItalic.ttf"; path = "../assets/fonts/Roboto-BlackItalic.ttf"; sourceTree = "<group>"; };
+		646F4E92E2F24691A991B673 /* Roboto-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Black.ttf"; path = "../assets/fonts/Roboto-Black.ttf"; sourceTree = "<group>"; };
 		650A3F76EE850E3CF7661D20 /* Pods-rockClimbingShopApp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rockClimbingShopApp-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-rockClimbingShopApp-tvOS/Pods-rockClimbingShopApp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		705EF94437B04D0B9390CA5F /* Roboto-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Thin.ttf"; path = "../assets/fonts/Roboto-Thin.ttf"; sourceTree = "<group>"; };
 		789FD4B5DDE4CC2E208A8CC3 /* libPods-rockClimbingShopApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rockClimbingShopApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		90B62883429D4A1488EA72AE /* Roboto-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Italic.ttf"; path = "../assets/fonts/Roboto-Italic.ttf"; sourceTree = "<group>"; };
+		A5F28F1D0F69493395061B9E /* Roboto-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-MediumItalic.ttf"; path = "../assets/fonts/Roboto-MediumItalic.ttf"; sourceTree = "<group>"; };
 		AA0B2A2673A6CF81B4021A9E /* Pods-rockClimbingShopAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rockClimbingShopAppTests.release.xcconfig"; path = "Target Support Files/Pods-rockClimbingShopAppTests/Pods-rockClimbingShopAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		B03778C7630CDE7491605013 /* libPods-rockClimbingShopAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rockClimbingShopAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B18E937780DB664CE6E08D5F /* Pods-rockClimbingShopApp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rockClimbingShopApp-tvOS.release.xcconfig"; path = "Target Support Files/Pods-rockClimbingShopApp-tvOS/Pods-rockClimbingShopApp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		B87F49B9AE4548329F82410C /* Roboto-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-ThinItalic.ttf"; path = "../assets/fonts/Roboto-ThinItalic.ttf"; sourceTree = "<group>"; };
 		C11C0C33185D943432E362A6 /* Pods-rockClimbingShopApp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rockClimbingShopApp-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-rockClimbingShopApp-tvOSTests/Pods-rockClimbingShopApp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		C55A70ADE8B6B28E8BCBAC76 /* libPods-rockClimbingShopApp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rockClimbingShopApp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBA2CB9BCE4508D5C300DD7E /* Pods-rockClimbingShopAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rockClimbingShopAppTests.debug.xcconfig"; path = "Target Support Files/Pods-rockClimbingShopAppTests/Pods-rockClimbingShopAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		DC52B412A57844ACA910B2F0 /* Roboto-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-BoldItalic.ttf"; path = "../assets/fonts/Roboto-BoldItalic.ttf"; sourceTree = "<group>"; };
 		E02E6E31F93E074EF4E30DE1 /* libPods-rockClimbingShopApp-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rockClimbingShopApp-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6843BA85E0812EED560FA4A /* Pods-rockClimbingShopApp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rockClimbingShopApp-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-rockClimbingShopApp-tvOSTests/Pods-rockClimbingShopApp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		E7650A216A18412AB24E04DF /* Roboto-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Medium.ttf"; path = "../assets/fonts/Roboto-Medium.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
+		EF00BB6A2368AE0600A44A46 /* rockClimbingShopApp-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "rockClimbingShopApp-Bridging-Header.h"; sourceTree = "<group>"; };
+		EF00BB6B2368AE0600A44A46 /* default.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = default.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,7 +161,6 @@
 				DBA2CB9BCE4508D5C300DD7E /* Pods-rockClimbingShopAppTests.debug.xcconfig */,
 				AA0B2A2673A6CF81B4021A9E /* Pods-rockClimbingShopAppTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -148,8 +174,29 @@
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
+				EF00BB6B2368AE0600A44A46 /* default.swift */,
+				EF00BB6A2368AE0600A44A46 /* rockClimbingShopApp-Bridging-Header.h */,
 			);
 			name = rockClimbingShopApp;
+			sourceTree = "<group>";
+		};
+		17BE70FF7457461B9213C861 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				646F4E92E2F24691A991B673 /* Roboto-Black.ttf */,
+				5FF1D0CF32B14EB8BE139813 /* Roboto-BlackItalic.ttf */,
+				04370DF7AAE0473A852DEA5F /* Roboto-Bold.ttf */,
+				DC52B412A57844ACA910B2F0 /* Roboto-BoldItalic.ttf */,
+				90B62883429D4A1488EA72AE /* Roboto-Italic.ttf */,
+				514932F6D19E41658FDB27E6 /* Roboto-Light.ttf */,
+				14E9101F88C84B5C8B322E5F /* Roboto-LightItalic.ttf */,
+				E7650A216A18412AB24E04DF /* Roboto-Medium.ttf */,
+				A5F28F1D0F69493395061B9E /* Roboto-MediumItalic.ttf */,
+				398D543C4B7A4EF9AEF1E98E /* Roboto-Regular.ttf */,
+				705EF94437B04D0B9390CA5F /* Roboto-Thin.ttf */,
+				B87F49B9AE4548329F82410C /* Roboto-ThinItalic.ttf */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -181,6 +228,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				0948D86E21260CF8071F5223 /* Pods */,
+				17BE70FF7457461B9213C861 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -230,7 +278,7 @@
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				75F0A6C502277618A83A4A38 /* [CP] Copy Pods Resources */,
+				2403080D66464DFA70419D70 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -286,12 +334,15 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0940;
+				LastUpgradeCheck = 940;
 				ORGANIZATIONNAME = Facebook;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = 13B07F861A680F5B00A75B9A;
+					};
+					13B07F861A680F5B00A75B9A = {
+						LastSwiftMigration = 1110;
 					};
 					2D02E47A1E0B4A5D006451C7 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -309,6 +360,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -339,6 +391,18 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				CE28975C4B964B5F998EDFA0 /* Roboto-Black.ttf in Resources */,
+				57F0EB72E60F422D9DCC8BEC /* Roboto-BlackItalic.ttf in Resources */,
+				EEFDE7E13DBC4241B28A38DA /* Roboto-Bold.ttf in Resources */,
+				00D65D6753DB404CA0E269CA /* Roboto-BoldItalic.ttf in Resources */,
+				5FE978423C6C45EAB5E7E816 /* Roboto-Italic.ttf in Resources */,
+				1B09D94C219C4184A199A268 /* Roboto-Light.ttf in Resources */,
+				4248BDB9D12A473F9782BFD2 /* Roboto-LightItalic.ttf in Resources */,
+				5B88EBBAE88F491589EC27B6 /* Roboto-Medium.ttf in Resources */,
+				B061CE51130641ABB16E134C /* Roboto-MediumItalic.ttf in Resources */,
+				FD09F96EEFE34F4DB6475961 /* Roboto-Regular.ttf in Resources */,
+				986E6F2743814477AB0A886E /* Roboto-Thin.ttf in Resources */,
+				EB56E093799844E78BE6E3B8 /* Roboto-ThinItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -373,6 +437,54 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+		};
+		2403080D66464DFA70419D70 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-rockClimbingShopApp/Pods-rockClimbingShopApp-resources.sh",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rockClimbingShopApp/Pods-rockClimbingShopApp-resources.sh\"\n";
+			showEnvVarsInLog = 0;
 		};
 		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -430,54 +542,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		75F0A6C502277618A83A4A38 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-rockClimbingShopApp/Pods-rockClimbingShopApp-resources.sh",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rockClimbingShopApp/Pods-rockClimbingShopApp-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		7F23D8FD2E1178674D4E70B5 /* [CP] Check Pods Manifest.lock */ = {
@@ -578,6 +642,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */,
+				EF00BB6C2368AE0600A44A46 /* default.swift in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -631,6 +696,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = DBA2CB9BCE4508D5C300DD7E /* Pods-rockClimbingShopAppTests.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -654,6 +720,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = AA0B2A2673A6CF81B4021A9E /* Pods-rockClimbingShopAppTests.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
 				INFOPLIST_FILE = rockClimbingShopAppTests/Info.plist;
@@ -675,6 +742,7 @@
 			baseConfigurationReference = 0EB23E7EC138225E0F59FD0D /* Pods-rockClimbingShopApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
 				INFOPLIST_FILE = rockClimbingShopApp/Info.plist;
@@ -686,6 +754,9 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = rockClimbingShopApp;
+				SWIFT_OBJC_BRIDGING_HEADER = "rockClimbingShopApp-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -695,6 +766,7 @@
 			baseConfigurationReference = 466F33F52F6C33BACB68FDD9 /* Pods-rockClimbingShopApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				INFOPLIST_FILE = rockClimbingShopApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -705,6 +777,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = rockClimbingShopApp;
+				SWIFT_OBJC_BRIDGING_HEADER = "rockClimbingShopApp-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;

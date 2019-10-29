@@ -13,7 +13,7 @@ import {
   ButtonText,
 } from './styles';
 
-export default function Main() {
+const Main = () => {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
@@ -25,7 +25,6 @@ export default function Main() {
           priceFormatted: formatPrice(product.price),
         }));
         setProducts(data);
-        console.tron.log(data);
       }
     };
 
@@ -55,4 +54,10 @@ export default function Main() {
       />
     </Container>
   );
-}
+};
+
+Main.navigationOptions = () => ({
+  title: 'Products',
+});
+
+export default Main;
